@@ -9,7 +9,7 @@ function App() {
   return (
     <div className=''>
       <Navbar />
-      <p>Contact se change</p>
+      <h1>heyyyy</h1>
 
       <Routes>
           <Route path='/' element={<Home />} />
