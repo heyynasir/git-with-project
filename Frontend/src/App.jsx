@@ -9,6 +9,7 @@ function App() {
     <div className=''>
       <Navbar />
 
+    <p>About se change</p>
       <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/about' element={<About />} />
